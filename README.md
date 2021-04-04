@@ -12,3 +12,23 @@ The input starts with a line containing an integer nn (3≤n≤2003≤n≤200) s
 
 #Output:
 Display the length of the longest straight line segment that fits inside the polygon, with an absolute or relative error of at most 10−610−6.
+
+#Sample Input 1:
+7
+0 20
+40 0
+40 20
+70 50
+50 70
+30 50
+0 50
+#Sample output 1:
+76.157731059
+
+#Sample Input 2:
+3
+0 2017
+-2017 -2017
+2017 0
+#Sample Output 2:
+4510.149110617
