@@ -1,5 +1,6 @@
 # PROJECT:
 #Problem Statement:
+
 Tropical island nation of Piconesia is famous for its beautiful beaches, lush vegetation, cocoa and coffee plantations, and wonderful weather all year round. This paradise is being considered as a future location for the World Finals of the ACM International Collegiate Programming Contest (or at the very least a vacation spot for the executive council). There is only one small problem: the island is really hard to reach.
 Currently, the fastest way to reach the island takes three days from the nearest airport, and uses a combination of fishing boat, oil tanker, kayak, and submarine. To make attending the ICPC World Finals slightly easier and to jump-start the island’s tourism business, Piconesia is planning to build its first airport.
 Since longer landing strips can accommodate larger airplanes, Piconesia has decided to build the longest possible landing strip on their island. Unfortunately, they have been unable to determine where this landing strip should be located. Maybe you can help?
@@ -19,12 +20,19 @@ Display the length of the longest straight line segment that fits inside the pol
 #Sample Input 1:
 
 7
+
 0 20
+
 40 0
+
 40 20
+
 70 50
+
 50 70
+
 30 50
+
 0 50
 
 
@@ -36,8 +44,14 @@ Display the length of the longest straight line segment that fits inside the pol
 #Sample Input 2:
 
 3
+
 0 2017
+
 -2017 -2017
+
 2017 0
+
+
 #Sample Output 2:
+
 4510.149110617
