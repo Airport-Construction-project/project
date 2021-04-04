@@ -6,3 +6,9 @@ For this problem we model the boundary of Piconesia as a polygon. Given this pol
 
 #Diagrammatic Representation
 ![d2 tex file](https://user-images.githubusercontent.com/69143855/113508858-ffc5e580-956f-11eb-95f8-054e8aacccad.png)
+
+#Input:
+The input starts with a line containing an integer nn (3≤n≤2003≤n≤200) specifying the number of vertices of the polygon. This is followed by nn lines, each containing two integers xx and yy (|x|,|y|≤106|x|,|y|≤106) that give the coordinates (x,y)(x,y) of the vertices of the polygon in counter-clockwise order. The polygon is simple, i.e., its vertices are distinct and no two edges of the polygon intersect or touch, except that consecutive edges touch at their common vertex. In addition, no two consecutive edges are collinear.
+
+#Output:
+Display the length of the longest straight line segment that fits inside the polygon, with an absolute or relative error of at most 10−610−6.
